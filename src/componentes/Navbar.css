@@ -1,0 +1,12 @@
+h1 {
+    font-size: 2.5rem;
+    margin: 2px;
+    background: -webkit-linear-gradient(#024caa, #ec8305);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
